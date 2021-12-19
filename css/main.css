@@ -34,7 +34,7 @@ body {
   margin-right: 4px;
 }
 
-.container {
+.mycontainer {
   background-image: linear-gradient(
       to right,
       rgba(255, 255, 255, 1),
